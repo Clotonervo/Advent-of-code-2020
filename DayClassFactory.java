@@ -9,7 +9,9 @@ public class DayClassFactory {
             case 2:
                 return new DayTwo();
             case 3:
+                return new DayThree();
             case 4:
+                return new DayFour();
             case 5:
             case 6:
             case 7:
